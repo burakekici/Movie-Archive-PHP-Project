@@ -1,0 +1,22 @@
+Movie Title
+Movie Length(mins)
+Pulp Fiction
+85
+Schindlers List
+100
+Fight Club
+111
+Lord of The Rings
+123
+The Shawnshank Redemption
+123
+Inception
+127
+The Dark Knight
+131
+The Godfather
+144
+Forrest Gump
+144
+The Matrix
+162
